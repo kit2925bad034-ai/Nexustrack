@@ -1,0 +1,6 @@
+{
+  "name": "NexusCourier - Courier Tracking & Management System",
+  "description": "Enterprise courier tracking and shipment management system featuring live checkpoint timelines, customer directory, Doubly LinkedList milestones, HashMap lookups, Red-Black TreeMap dispatch scheduling, and JDBC query engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
